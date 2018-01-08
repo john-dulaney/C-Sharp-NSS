@@ -64,7 +64,7 @@ namespace lists
 
 
             // Add all dictionaries to spacecraft collection
-            spacecraft.Add(mariner10);
+            // spacecraft.Add(mariner10);
             spacecraft.Add(voyager1Dict);
             spacecraft.Add(voyager2Dict);
 
