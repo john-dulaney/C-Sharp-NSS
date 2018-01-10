@@ -5,7 +5,6 @@ using System.Linq;
 
 namespace bangazon
 {
-
     public class Department
     {
         public string _name;
@@ -19,7 +18,6 @@ namespace bangazon
             _supervisor = supervisor;
             _employee_count = employees;
         }
-
 
         public string toString()
         {

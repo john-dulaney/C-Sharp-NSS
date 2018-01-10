@@ -8,7 +8,14 @@ namespace lightning
     {
         static void Main(string[] args)
         {
-           
+            List<string, int> = new List<string, int>;
+
+            new employee = Employee()
+                employee.name = "John"
+                employee.start = DateTime.Now()
+                employee.end = False
+
+            
         }
     }
 }
