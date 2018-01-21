@@ -28,6 +28,12 @@ namespace MusicHistory.Controllers
 
             return View();
         }
+        public IActionResult John()
+        {
+            ViewData["Message"] = "John Dulaney";
+
+            return View();
+        }
 
         public IActionResult Error()
         {
